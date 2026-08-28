@@ -13,7 +13,7 @@
 # the Doc Template for RISC-V Extensions.
 
 DOCS := \
-	spec-sample.adoc
+	pippin-spec.adoc
 
 # Spec short name used in ARC-compliant PDF filenames.
 # Override in derived repos: e.g. SPEC_SHORT := Zifoo

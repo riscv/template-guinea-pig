@@ -13,7 +13,7 @@
 site:
   title: RISC-V Specification
   url: https://docs.riscv.org
-  start_page: spec-sample::index.adoc
+  start_page: pippin-spec::index.adoc
 
 content:
   sources:
