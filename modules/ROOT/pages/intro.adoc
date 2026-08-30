@@ -1,7 +1,9 @@
 [#intro]
 = Introduction
 
-Down with Latin! Let's try some Norwegian. Jeg elsker jobben min
+Down with Latin! Let's try some Norwegian. Jeg elsker jobben min.
+
+But that is norway....
 
 .Nonsensical code
 [source, python]
