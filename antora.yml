@@ -22,7 +22,7 @@ title: RISC-V Example Specification (Pippin)
 # stamped from scripts/release-info.sh (the same source the PDF build uses) by
 # scripts/stamp-antora-version.sh / `make stamp-antora`, so the site path
 # (/spec-sample/<version>/) and the released PDF filename always match.
-version: v0.61
+version: v0.62
 nav:
   - modules/ROOT/nav.adoc
 
@@ -49,7 +49,7 @@ asciidoc:
     # shared-rendering override. Stamped by scripts/stamp-antora-version.sh; the
     # `version:` key above is the authoritative version and page-revnumber mirrors
     # it for display. Do not hand-edit.
-    page-revnumber: v0.61
+    page-revnumber: v0.62
     page-revdate: 2026-08-30
     page-phase: development-complete
     page-phase-display: 'Development Complete'
