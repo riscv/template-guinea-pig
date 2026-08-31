@@ -3,7 +3,9 @@
 
 Down with Latin! Let's try some Norwegian. Jeg elsker jobben min.
 
-But that is norway....
+But that is Norway....
+
+Oh Canada!
 
 .Nonsensical code
 [source, python]
