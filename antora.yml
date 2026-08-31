@@ -23,7 +23,6 @@ title: RISC-V Example Specification (Pippin)
 # scripts/stamp-antora-version.sh / `make stamp-antora`, so the site path
 # (/spec-sample/<version>/) and the released PDF filename always match.
 version: v0.62
-
 nav:
   - modules/ROOT/nav.adoc
 
